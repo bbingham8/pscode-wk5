@@ -36,7 +36,7 @@ c) Find the smallest (minimum) and largest (maximum) of the five entered numbers
 d) Write out the results found from steps b and c with a message describing what they are
 
 // collect numbers from the user
-set five variables; each variable to contain one numbber from user via prompt
+set five variables; each variable to contain one number from user via prompt
 example: n1 = prompt("Enter the 1st number"); 
 
 // calculate average of the five numbers
